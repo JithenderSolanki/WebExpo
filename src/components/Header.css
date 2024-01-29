@@ -1,0 +1,12 @@
+/* Header.css */
+.header {
+  background-color: #323270;
+  color: white;
+  padding: 15px;
+  transition: all 0.3s ease;
+  text-align: justify;
+}
+
+.header:hover {
+  transform: scale(1.1);
+}
